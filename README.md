@@ -7,7 +7,7 @@
 
 ## Installation
 
-`pip3 install requirements.txt -r`
+`pip3 install -r requirements.txt`
 
 ## Usage
 
